@@ -2,12 +2,6 @@
 # 👋 Hi, There! Welcome
 ### Software Engineer | AI Engineer
 *"Education is not preparation for life; education is life itself" – John Dewey*
-
----
-
-## 💻 Proficiency
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyizaLandry5&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 🚀 About
