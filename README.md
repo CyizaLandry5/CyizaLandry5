@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-# 👋 Hi, I'm Rwema Dominique
+# 👋 Hi, There! Welcome
 ### Software Engineer | AI Engineer
 *"Education is not preparation for life; education is life itself" – John Dewey*
 
