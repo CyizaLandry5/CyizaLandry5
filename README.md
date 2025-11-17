@@ -6,8 +6,8 @@
 ---
 
 ## 💻 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rwema3&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rwema3&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyizalandry5&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyizalandry5&show_icons=true&theme=tokyonight)
 
 ---
 
