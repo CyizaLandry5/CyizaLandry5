@@ -6,7 +6,7 @@
 
 ## 🚀 About
 - Passionate about building scalable, efficient, and modern Systems powered by AI. 
-- Experienced in **Flutter, Dart, JavaScript, PHP, and Python**.  
+- Experienced in **Python, PHP, Dart, JS, Django, Linux, Networking & Cybersecurity and more**.  
 - Strong believer in clean code, agile practices, and continuous learning.
 
 ---
